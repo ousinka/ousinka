@@ -8,7 +8,7 @@
 
 下面是我的微信公众号，我会写一下学习心得
 
-<img src="https://www.d2lcoder.com/wechat.jpg" style="float:left;zoom:10%;" />
+<img src="https://www.d2lcoder.com/wechat.jpg"  width="260"  style="float:left;zoom:10%;" />
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousinka&show_icons=true&theme=radical&count_private=true)](https://github.com/ousinka/)
