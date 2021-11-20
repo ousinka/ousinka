@@ -6,7 +6,7 @@
 
 如果您有兴趣可以一块学习，一块交流
 
-下面是我的微信公众号，我会写一下学习心得
+下面是我的微信公众号，我会写一下学习心得，欢迎关注！
 
 <img src="https://www.d2lcoder.com/wechat.jpg"  width="260"  style="float:left;zoom:10%;" />
 
